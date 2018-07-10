@@ -20,5 +20,6 @@ Language :fr:
 
 - [ ] Corriger les problèmes de conception adaptés aux mobile et tablette.
 - [ ] Ajouter une carte avec Leaflet en apposant un marqueur.
+- [ ] Réorganiser et alléger la CSS avec SASS.
 - [ ] Créer les menus dropdown dans la navbar.
 - [ ] Ajouter du contenu réel.
